@@ -10,7 +10,7 @@ export default function Hero() {
           </p>
 
           <h1 className="text-6xl md:text-8xl font-display font-bold mb-6 opacity-0 animate-slideUp" style={{ animationDelay: '0.3s' }}>
-            <span className="text-gradient">Anton Kariskau</span>
+            <span className="text-gradient">Ibra Na Kibra</span>
           </h1>
 
           <p className="text-2xl md:text-4xl text-white/80 mb-8 font-light opacity-0 animate-slideUp" style={{ animationDelay: '0.4s' }}>

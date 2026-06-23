@@ -13,13 +13,13 @@ const plusJakarta = Plus_Jakarta_Sans({
 })
 
 export const metadata: Metadata = {
-  title: 'Anton Kariskau - Portfolio',
-  description: 'Portfolio website of Anton Kariskau - Developer, Designer, Creator',
+  title: 'Ibra Na Kibra - Portfolio',
+  description: 'Portfolio website of Ibra Na Kibra - Developer, Designer, Creator',
   keywords: ['portfolio', 'developer', 'designer', 'Anton', 'Kariskau'],
-  authors: [{ name: 'Anton Kariskau' }],
+  authors: [{ name: 'Ibra Na Kibra' }],
   openGraph: {
-    title: 'Anton Kariskau - Portfolio',
-    description: 'Portfolio website of Anton Kariskau',
+    title: 'Ibra Na Kibra - Portfolio',
+    description: 'Portfolio website of Ibra Na Kibra',
     type: 'website',
   },
 }

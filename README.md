@@ -1,4 +1,4 @@
-# Portfolio - Anton Kariskau
+# Portfolio - Ibra Na Kibra
 
 Modern, elegant portfolio website built with Next.js 15 and Tailwind CSS.
 
@@ -47,7 +47,7 @@ npm start
 
 ## 📄 License
 
-MIT © 2026 Anton Kariskau
+MIT © 2026 Ibra Na Kibra
 
 ---
 

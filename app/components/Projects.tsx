@@ -3,10 +3,10 @@
 export default function Projects() {
   const projects = [
     {
-      title: 'Wedding Gallery',
-      description: 'Interactive wedding photo gallery with music player, upload system, and elegant animations. Built for Maryadi & Riska.',
-      tags: ['Node.js', 'Cloudinary', 'Vercel'],
-      link: 'https://maryadi-riska.vercel.app',
+      title: 'AI Task Manager',
+      description: 'Smart task management with AI-powered prioritization, deadline prediction, and automated scheduling features.',
+      tags: ['Next.js', 'OpenAI', 'PostgreSQL'],
+      link: '#',
       gradient: 'from-pink-500 to-rose-500',
     },
     {

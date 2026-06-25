@@ -12,7 +12,7 @@ export default function About() {
 
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="glass p-8 rounded-2xl hover:bg-white/10 transition-all hover:scale-105">
-              <div className="w-32 h-32 rounded-full mx-auto mb-6 overflow-hidden border-4 border-accent/30 hover:border-accent transition-all animate-float">
+              <div className="w-48 h-48 rounded-full mx-auto mb-6 overflow-hidden border-4 border-accent/30 hover:border-accent transition-all animate-float">
                 <img 
                   src="/profile.jpg" 
                   alt="Ibra Na Kibra"
